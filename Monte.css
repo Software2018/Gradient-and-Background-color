@@ -1,0 +1,25 @@
+html{
+ background: black;
+ background-image: repeating-linear-gradient(  -45deg,black, white 1px,transparent 6px,  transparent 5px);
+ background-size: 10px 4px;
+}
+.border{
+  background:linear-gradient(-90deg,black,blue);
+  width:25%;
+  position:absolute;
+  right:37.5%;
+  color: white;
+  text-align: center;
+  }
+h1{
+  background:linear-gradient(-90deg,blue,black);
+  text-align: center;
+  width:40%;
+  position: relative;
+  right: -30%;
+  color: white;
+  }
+.img{
+  display:block;
+  margin: auto;
+  }
